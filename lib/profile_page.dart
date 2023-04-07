@@ -1,3 +1,4 @@
+import 'package:f43_dert_takibi_app/color_palette.dart';
 import 'package:flutter/material.dart';
 
 class ProfilePage extends StatefulWidget {
@@ -10,6 +11,13 @@ class ProfilePage extends StatefulWidget {
 class _ProfilePageState extends State<ProfilePage> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold();
-  }
+    return Scaffold(
+     drawer: Drawer(),
+     appBar: AppBar(),
+     body: Stack(
+      children: [
+        
+      ]),
+    );
+  } 
 }
