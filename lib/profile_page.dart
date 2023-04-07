@@ -16,8 +16,14 @@ class _ProfilePageState extends State<ProfilePage> {
      appBar: AppBar(),
      body: Stack(
       children: [
-        
-      ]),
+       FittedBox(
+         child: Image.asset(
+          "assets/images/profilePage.png"),
+          fit: BoxFit.fill
+       ),
+       
+      ]
+      ),
     );
   } 
 }

@@ -1,4 +1,5 @@
 import 'package:f43_dert_takibi_app/profile_page.dart';
+import 'package:f43_dert_takibi_app/task_detail_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
@@ -25,7 +26,7 @@ class MyApp extends StatelessWidget {
         )
       ),
       debugShowCheckedModeBanner: false,
-      home: ProfilePage(),
+      home: TaskDetailPage(),
     );
   }
 }
