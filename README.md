@@ -1,16 +1,16 @@
 # f43_dert_takibi_app
 
-A new Flutter project.
+Dert Takibi bir Flutter Projesidir ve OUA için tasarlanmıştır.
+Projenin çalışır durumda ki hali master branch'inde bulunmaktadır.
 
-## Getting Started
+Proje:
+Proje bir todoApp mantığında çalışmaktadır. Akademi içerisinde bulunan görevleri kolay takip etmek üzere tasarlanmıştır. Basit ve kullanışlı arayüzü sayesinde saniyeler içerisinde yapılacak görevi oluşturmanız amaçlanmıştır.
 
-This project is a starting point for a Flutter application.
+Projenin Sunum Videosu: https://www.youtube.com/watch?v=G3oNr_EM7Hw&ab_channel=Bet%C3%BClErdo%C4%9Fan
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Proje Sahipleri:
+-Mustafa KARA
+-Emine Ünal
+-Bülent Çoruh
+-Cihat Yümsel
+-Emine Betül Erdoğan
